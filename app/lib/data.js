@@ -1,4 +1,3 @@
-"use client"
 import { unstable_noStore as noStore } from 'next/cache';
 import { useQuery } from 'react-query';
 
